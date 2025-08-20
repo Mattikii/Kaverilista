@@ -1,0 +1,6 @@
+Suunnitelma
+
+Käyttäliittymän toteutus: Html sivu josta löytyy versio 1 ja versio 2
+Css tyylittely: Yksinkertainen vaalealla taustalla. Painikkeet ovat selkeät
+Javascript koodaus: Versiossa 1 prompt kysyy nimet jotka näkyy listassa. Versiossa 2 push pop ja sort joilla lisätään, poistetaan ja järjestetään nimet.
+Testaus: Testattu Firefoxilla. Lisätyt nimet tulostuu versiossa 1 ja versiossa 2 voi lisätä poistaa ja järjestää
